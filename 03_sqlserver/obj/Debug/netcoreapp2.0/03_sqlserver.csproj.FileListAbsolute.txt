@@ -1,0 +1,10 @@
+C:\trainings\dotnet\playground\03_sqlserver\obj\Debug\netcoreapp2.0\03_sqlserver.csproj.CoreCompileInputs.cache
+C:\trainings\dotnet\playground\03_sqlserver\obj\Debug\netcoreapp2.0\03_sqlserver.AssemblyInfoInputs.cache
+C:\trainings\dotnet\playground\03_sqlserver\obj\Debug\netcoreapp2.0\03_sqlserver.AssemblyInfo.cs
+C:\trainings\dotnet\playground\03_sqlserver\bin\Debug\netcoreapp2.0\03_sqlserver.deps.json
+C:\trainings\dotnet\playground\03_sqlserver\bin\Debug\netcoreapp2.0\03_sqlserver.runtimeconfig.json
+C:\trainings\dotnet\playground\03_sqlserver\bin\Debug\netcoreapp2.0\03_sqlserver.runtimeconfig.dev.json
+C:\trainings\dotnet\playground\03_sqlserver\bin\Debug\netcoreapp2.0\03_sqlserver.dll
+C:\trainings\dotnet\playground\03_sqlserver\bin\Debug\netcoreapp2.0\03_sqlserver.pdb
+C:\trainings\dotnet\playground\03_sqlserver\obj\Debug\netcoreapp2.0\03_sqlserver.dll
+C:\trainings\dotnet\playground\03_sqlserver\obj\Debug\netcoreapp2.0\03_sqlserver.pdb

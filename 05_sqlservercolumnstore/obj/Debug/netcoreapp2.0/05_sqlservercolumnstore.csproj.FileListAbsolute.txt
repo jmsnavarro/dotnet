@@ -1,0 +1,10 @@
+C:\trainings\dotnet\playground\05_sqlservercolumnstore\bin\Debug\netcoreapp2.0\05_sqlservercolumnstore.deps.json
+C:\trainings\dotnet\playground\05_sqlservercolumnstore\bin\Debug\netcoreapp2.0\05_sqlservercolumnstore.runtimeconfig.json
+C:\trainings\dotnet\playground\05_sqlservercolumnstore\bin\Debug\netcoreapp2.0\05_sqlservercolumnstore.runtimeconfig.dev.json
+C:\trainings\dotnet\playground\05_sqlservercolumnstore\bin\Debug\netcoreapp2.0\05_sqlservercolumnstore.dll
+C:\trainings\dotnet\playground\05_sqlservercolumnstore\bin\Debug\netcoreapp2.0\05_sqlservercolumnstore.pdb
+C:\trainings\dotnet\playground\05_sqlservercolumnstore\obj\Debug\netcoreapp2.0\05_sqlservercolumnstore.csproj.CoreCompileInputs.cache
+C:\trainings\dotnet\playground\05_sqlservercolumnstore\obj\Debug\netcoreapp2.0\05_sqlservercolumnstore.AssemblyInfoInputs.cache
+C:\trainings\dotnet\playground\05_sqlservercolumnstore\obj\Debug\netcoreapp2.0\05_sqlservercolumnstore.AssemblyInfo.cs
+C:\trainings\dotnet\playground\05_sqlservercolumnstore\obj\Debug\netcoreapp2.0\05_sqlservercolumnstore.dll
+C:\trainings\dotnet\playground\05_sqlservercolumnstore\obj\Debug\netcoreapp2.0\05_sqlservercolumnstore.pdb

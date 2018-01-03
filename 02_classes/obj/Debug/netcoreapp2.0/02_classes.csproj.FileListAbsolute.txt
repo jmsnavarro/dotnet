@@ -1,0 +1,10 @@
+C:\trainings\dotnet\playground\02_classes\bin\Debug\netcoreapp2.0\02_classes.deps.json
+C:\trainings\dotnet\playground\02_classes\bin\Debug\netcoreapp2.0\02_classes.runtimeconfig.json
+C:\trainings\dotnet\playground\02_classes\bin\Debug\netcoreapp2.0\02_classes.runtimeconfig.dev.json
+C:\trainings\dotnet\playground\02_classes\bin\Debug\netcoreapp2.0\02_classes.dll
+C:\trainings\dotnet\playground\02_classes\bin\Debug\netcoreapp2.0\02_classes.pdb
+C:\trainings\dotnet\playground\02_classes\obj\Debug\netcoreapp2.0\02_classes.csproj.CoreCompileInputs.cache
+C:\trainings\dotnet\playground\02_classes\obj\Debug\netcoreapp2.0\02_classes.AssemblyInfoInputs.cache
+C:\trainings\dotnet\playground\02_classes\obj\Debug\netcoreapp2.0\02_classes.AssemblyInfo.cs
+C:\trainings\dotnet\playground\02_classes\obj\Debug\netcoreapp2.0\02_classes.dll
+C:\trainings\dotnet\playground\02_classes\obj\Debug\netcoreapp2.0\02_classes.pdb

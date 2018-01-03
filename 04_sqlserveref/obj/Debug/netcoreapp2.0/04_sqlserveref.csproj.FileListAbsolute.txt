@@ -1,0 +1,10 @@
+C:\trainings\dotnet\playground\04_sqlserveref\bin\Debug\netcoreapp2.0\04_sqlserveref.deps.json
+C:\trainings\dotnet\playground\04_sqlserveref\bin\Debug\netcoreapp2.0\04_sqlserveref.runtimeconfig.json
+C:\trainings\dotnet\playground\04_sqlserveref\bin\Debug\netcoreapp2.0\04_sqlserveref.runtimeconfig.dev.json
+C:\trainings\dotnet\playground\04_sqlserveref\bin\Debug\netcoreapp2.0\04_sqlserveref.dll
+C:\trainings\dotnet\playground\04_sqlserveref\bin\Debug\netcoreapp2.0\04_sqlserveref.pdb
+C:\trainings\dotnet\playground\04_sqlserveref\obj\Debug\netcoreapp2.0\04_sqlserveref.csproj.CoreCompileInputs.cache
+C:\trainings\dotnet\playground\04_sqlserveref\obj\Debug\netcoreapp2.0\04_sqlserveref.AssemblyInfoInputs.cache
+C:\trainings\dotnet\playground\04_sqlserveref\obj\Debug\netcoreapp2.0\04_sqlserveref.AssemblyInfo.cs
+C:\trainings\dotnet\playground\04_sqlserveref\obj\Debug\netcoreapp2.0\04_sqlserveref.dll
+C:\trainings\dotnet\playground\04_sqlserveref\obj\Debug\netcoreapp2.0\04_sqlserveref.pdb
